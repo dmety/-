@@ -1,6 +1,6 @@
 {
-  "name": "ZenParticles - AI & Hand Control",
-  "description": "A real-time 3D particle system controlled by hand gestures and Gemini AI. Use pinch/spread gestures to manipulate shapes.",
+  "name": "ZenParticles - AI & 手势控制",
+  "description": "一个由手势和 Gemini AI 控制的实时 3D 粒子系统。使用捏合/张开手势来操纵形状。",
   "requestFramePermissions": [
     "camera"
   ]
